@@ -1,5 +1,7 @@
 package org.javasql;
 
+import org.javasql.SyncCode.LongTask;
+
 import java.util.concurrent.CompletableFuture;
 
 // IMPLEMENT ASYNC API
